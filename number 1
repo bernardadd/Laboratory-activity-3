@@ -1,4 +1,3 @@
-@@ -0,0 +1,13 @@
 public class App {
     public static int sumDigits(int n) {
         if (n == 0) {
